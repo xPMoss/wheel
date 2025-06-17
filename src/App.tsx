@@ -72,7 +72,7 @@ function Routes() {
 }
 
 
-import { Navigate, Outlet } from "react-router-dom"; // 3rd party - by remix run
+import { Outlet } from "react-router-dom"; // 3rd party - by remix run
 import { ErrorBoundary } from "react-error-boundary"; // 3rd party - by bvaughn (Brian Vaughn)
 
 const PublicRoute = () => {

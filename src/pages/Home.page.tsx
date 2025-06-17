@@ -1,11 +1,9 @@
 // React
 import {  useState,  } from "react";
 
-
 // Services
 
 // Models
-
 
 export function HomePage() {
   // #region Logic
